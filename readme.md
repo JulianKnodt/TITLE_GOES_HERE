@@ -50,4 +50,14 @@ sounds of the night. He continues to walk, until ending up in front of a line of
 continues to stand there. It cuts to the man in front of the mirror, but now the mirror is
 clear. The lights go off, and the sounds of sheets can be heard.
 
+# Progress checks
+
+April 11, 2019:
+Did some technique tests, animated the wooden man dummy and also drew a moving hold for a
+church which can be used as a background. I think I ended up with just using 3.00 fixed width
+paint brush for most of it. I also rotiscoped Future Kid Conan because I think that might be the
+style I want to use for the young version of the person
+
+TODO ADD SWFS HERE
+
 [Mood-Board](https://julianknodt.github.io/TITLE_GOES_HERE/)
