@@ -26,6 +26,9 @@ Without further ado:
 ![Room Drawing](https://www.animeoutline.com/wp-content/uploads/2018/03/one_point_perspective_room_drawing.png)
 ![Square](references/tiananmen.jpg)
 ![Picture Frame](https://seldeximages.digitalbridge.com.au/w540-c3:2-q100/product_images/desk1.jpg)
+![Mirror](https://images.pexels.com/photos/765217/pexels-photo-765217.jpeg?cs=srgb&dl=black-and-white-blur-boy-765217.jpg&fm=jpg)
+![Mirror](http://sportsmockery.com/wp-content/uploads/2014/11/man-looking-in-mirror.jpg)
+![Foggy Mirror](https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EGMNzkHOlijiyxjt6/hand-cleaning-the-foggy-mirror_swviya6ql_thumbnail-full01.png)
 
 ## Plot
 
@@ -73,5 +76,11 @@ April 16, 2019:
 Worked a little bit on the tank scene and found a good reference image for the convenience
 store. Decided to use a picture of Lawson's from wikipedia. I'm not sure if I can properly
 capture the lighting but it's a moody picture.
+
+April 17, 2019(Midnight):
+Woops, stayed up late working on this. I drew the scene for the room. I'm not sure, but I might
+just animate the door sliding, and background to the window. I could just add him in walking
+afterwards, but I'm not sure if that would be sufficient. I also intended to draw a picture
+frame, but as of writing this I'm not sure if I'll finish.
 
 [Mood-Board](https://julianknodt.github.io/TITLE_GOES_HERE/)
