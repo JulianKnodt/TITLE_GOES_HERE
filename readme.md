@@ -21,7 +21,10 @@ Without further ado:
 ![ChildWalkCycle](https://storyboardingandcharacters.files.wordpress.com/2017/04/child-run-cycle-fully-rendered1.gif?w=663)
 ![Groceries](http://2.bp.blogspot.com/-zGVwkB2_qhA/UNuBAIKbwkI/AAAAAAAAAdY/L4jbKvIYXuc/s640/ponyo-walk.gif)
 ![Drawing of praying](./praying.png)
-
+[Lawsons' Convenience Store](https://en.wikipedia.org/wiki/Lawson_(store))
+![Room Drawing](https://i.pinimg.com/originals/60/ca/d5/60cad5ebae5aff51c8b249f6f409ef51.jpg)
+![Room Drawing](https://www.animeoutline.com/wp-content/uploads/2018/03/one_point_perspective_room_drawing.png)
+![Square](references/tiananmen.jpg)
 
 ## Plot
 
@@ -58,6 +61,16 @@ church which can be used as a background. I think I ended up with just using 3.0
 paint brush for most of it. I also rotiscoped Future Kid Conan because I think that might be the
 style I want to use for the young version of the person
 
-TODO ADD SWFS HERE
+
+April 12, 2019:
+I think I realized what I want to do to make it more aesthetically pleasing. After watching
+World of Tomorrow, I want to add glitched images as backgrounds to some of the images, and that
+can be added in after effects with masking. I also hope to use edge detection on some images to
+make them less realistic and then apply glitchiness to those.
+
+April 16, 2019:
+Worked a little bit on the tank scene and found a good reference image for the convenience
+store. Decided to use a picture of Lawson's from wikipedia. I'm not sure if I can properly
+capture the lighting but it's a moody picture.
 
 [Mood-Board](https://julianknodt.github.io/TITLE_GOES_HERE/)

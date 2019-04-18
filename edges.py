@@ -1,36 +1,19 @@
+import sys
+from pathlib import Path
 import numpy as np
-import scipy as sp
-import scipy.ndimage
 import matplotlib.pyplot as plt
-import cv2
+import cv2 as cv
 
 # global settings
-img_file = "church.png"
+img_file = sys.argv[1]
+
 width, height = 1920, 1080
-blur = 13
-window_size = 10
 
-img = plt.imread(img_file)
-img = img[:, :, :3]
-print(img.shape)
-img = cv2.resize(img, (width, height)) # TODO determine interpolation type
+img = cv.imread(img_file, 0)
+img = cv.resize(img, (width, height))
+edges = cv.Canny(img, 100, 200)
+plt.imshow(np.invert(edges),cmap='gray')
+path = Path(img_file)
+new_path = path.parent / (path.stem + "_edges.png")
+plt.savefig(new_path)
 
-# apply gaussian filter
-blurred_img = sp.ndimage.gaussian_filter(img, sigma=blur)
-
-# find intensity gradients
-g_x = sp.ndimage.sobel(blurred_img, axis=0, mode='constant')
-g_y = sp.ndimage.sobel(blurred_img, axis=1)
-
-G = np.sqrt(g_x**2 + g_y**2)
-Theta = np.arctan2(g_x, g_y)
-
-# apply non-maximum suppression
-
-suppressed = np.zeros(G.shape)
-
-# apply double threshold to determine edges
-# hysteris and remove weak edges
-
-plt.imshow(1-Theta)
-plt.show()
