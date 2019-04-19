@@ -92,6 +92,12 @@ different than the gifs online. They tend to bike with their bike completely str
 online, everyone is hunched over. It makes it hard to draw an animation of someone casually
 biking.
 
+(1:40 A.M.)
+Bruh, I ended up cutting a lot of time from my initial scenes, because I can't hold an image for
+30 seconds and expect people to care. I also feel that I did not end up adding a ton from last
+week, even though I did a lot of work. I still have a lot more to go, but I'm going to rest
+before class tomorrow.
+
 
 
 [Mood-Board](https://julianknodt.github.io/TITLE_GOES_HERE/)
