@@ -30,7 +30,6 @@ Without further ado:
 ![Mirror](http://sportsmockery.com/wp-content/uploads/2014/11/man-looking-in-mirror.jpg)
 ![Foggy Mirror](https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EGMNzkHOlijiyxjt6/hand-cleaning-the-foggy-mirror_swviya6ql_thumbnail-full01.png)
 ![Biking](https://i.gifer.com/52VF.gif)
-The one below I just thought was funny.
 ![Biking](https://i.gifer.com/YojI.gif)
 ![Studying](https://thumbs.gfycat.com/SandyFloweryDairycow-max-1mb.gif)
 City: Nanjing Road(Picture not selected)
