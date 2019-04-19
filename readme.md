@@ -32,6 +32,8 @@ Without further ado:
 ![Biking](https://i.gifer.com/52VF.gif)
 The one below I just thought was funny.
 ![Biking](https://i.gifer.com/YojI.gif)
+![Studying](https://thumbs.gfycat.com/SandyFloweryDairycow-max-1mb.gif)
+City: Nanjing Road(Picture not selected)
 
 ## Plot
 
