@@ -29,9 +29,9 @@ Without further ado:
 ![Mirror](https://images.pexels.com/photos/765217/pexels-photo-765217.jpeg?cs=srgb&dl=black-and-white-blur-boy-765217.jpg&fm=jpg)
 ![Mirror](http://sportsmockery.com/wp-content/uploads/2014/11/man-looking-in-mirror.jpg)
 ![Foggy Mirror](https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EGMNzkHOlijiyxjt6/hand-cleaning-the-foggy-mirror_swviya6ql_thumbnail-full01.png)
-![Biking](https://i.gifer.com/52VF.mp4)
+![Biking](https://i.gifer.com/52VF.gif)
 The one below I just thought was funny.
-![Biking](https://i.gifer.com/YojI.mp4)
+![Biking](https://i.gifer.com/YojI.gif)
 
 ## Plot
 
