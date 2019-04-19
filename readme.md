@@ -98,6 +98,11 @@ Bruh, I ended up cutting a lot of time from my initial scenes, because I can't h
 week, even though I did a lot of work. I still have a lot more to go, but I'm going to rest
 before class tomorrow.
 
+April 19, 2019(11:03 A.M.):
+
+Rethinking some of my design choices before the Animatic is being shown... I'm not sure if I
+want to switch to just line art, or use black and white colors. Gonna have to keep
+experimenting. I'm curious how other people's animatics will be, because mine felt sparse.
 
 
 [Mood-Board](https://julianknodt.github.io/TITLE_GOES_HERE/)
