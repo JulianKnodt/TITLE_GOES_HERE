@@ -29,6 +29,9 @@ Without further ado:
 ![Mirror](https://images.pexels.com/photos/765217/pexels-photo-765217.jpeg?cs=srgb&dl=black-and-white-blur-boy-765217.jpg&fm=jpg)
 ![Mirror](http://sportsmockery.com/wp-content/uploads/2014/11/man-looking-in-mirror.jpg)
 ![Foggy Mirror](https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EGMNzkHOlijiyxjt6/hand-cleaning-the-foggy-mirror_swviya6ql_thumbnail-full01.png)
+![Biking](https://i.gifer.com/52VF.mp4)
+The one below I just thought was funny.
+![Biking](https://i.gifer.com/YojI.mp4)
 
 ## Plot
 
@@ -57,7 +60,7 @@ sounds of the night. He continues to walk, until ending up in front of a line of
 continues to stand there. It cuts to the man in front of the mirror, but now the mirror is
 clear. The lights go off, and the sounds of sheets can be heard.
 
-# Progress checks
+# Progress Checks
 
 April 11, 2019:
 Did some technique tests, animated the wooden man dummy and also drew a moving hold for a
@@ -82,5 +85,13 @@ Woops, stayed up late working on this. I drew the scene for the room. I'm not su
 just animate the door sliding, and background to the window. I could just add him in walking
 afterwards, but I'm not sure if that would be sufficient. I also intended to draw a picture
 frame, but as of writing this I'm not sure if I'll finish.
+
+April 18, 2019(Around 9 P.M.):
+I was looking at references of biking, and noticed that people casually biking at home are very
+different than the gifs online. They tend to bike with their bike completely straight, but
+online, everyone is hunched over. It makes it hard to draw an animation of someone casually
+biking.
+
+
 
 [Mood-Board](https://julianknodt.github.io/TITLE_GOES_HERE/)
