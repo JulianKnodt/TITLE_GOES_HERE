@@ -105,5 +105,9 @@ Rethinking some of my design choices before the Animatic is being shown... I'm n
 want to switch to just line art, or use black and white colors. Gonna have to keep
 experimenting. I'm curious how other people's animatics will be, because mine felt sparse.
 
+## Sounds:
+List of sounds is [here](sound.md).
+
+
 
 [Mood-Board](https://julianknodt.github.io/TITLE_GOES_HERE/)
