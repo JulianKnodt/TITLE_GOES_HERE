@@ -8,12 +8,15 @@ using them in.
 [Bicycle](https://freesound.org/people/13gkopeckak/sounds/378901/)
 [Bike Brake](https://freesound.org/people/ChemiCatz/sounds/267904/)
 [Ravens](https://freesound.org/people/lmr9/sounds/265342/)
+[Nature Ambience](https://freesound.org/people/Philip%20Goddard/sounds/180909/)
 [Autumn](https://freesound.org/people/inchadney/sounds/329837/)
 - Church
 [Church Door](https://freesound.org/people/PapercutterJohn/sounds/321068/)
 [Bell](https://freesound.org/people/aoristos/sounds/329324/)
+[Better Bell?](https://freesound.org/people/edsward/sounds/341866/)
 [Funeral Song?](https://freesound.org/people/klankbeeld/sounds/192691/)
 [Trumpet Salute](https://freesound.org/people/Benboncan/sounds/62309/)
+[Ambience](https://freesound.org/people/InspectorJ/sounds/411991/)
 - New room
 [Entering Door](https://freesound.org/people/IG88Gov/sounds/431897/)
 - Placing Picture

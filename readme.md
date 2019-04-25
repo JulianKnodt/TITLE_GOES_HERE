@@ -33,6 +33,7 @@ Without further ado:
 ![Biking](https://i.gifer.com/YojI.gif)
 ![Studying](https://thumbs.gfycat.com/SandyFloweryDairycow-max-1mb.gif)
 City: Nanjing Road(Picture not selected)
+![Praying](https://www.guideposts.org/sites/guideposts.org/files/styles/hero_box_left_lg/public/blog_post/praying_in_church.jpg?timestamp=1538424093)
 
 ## Plot
 
