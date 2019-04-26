@@ -40,7 +40,7 @@ using them in.
 [Ending Music](https://freesound.org/people/HermanSchmidt/sounds/254749/)
 - End
 
-Misc
+- Misc
 [Tibetan Bells](https://freesound.org/people/heyim89yearsold/sounds/259890/)
 [Beep](https://freesound.org/people/Efecto%20Fundador/sounds/195926/)
 
