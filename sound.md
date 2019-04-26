@@ -17,6 +17,7 @@ using them in.
 [Funeral Song?](https://freesound.org/people/klankbeeld/sounds/192691/)
 [Trumpet Salute](https://freesound.org/people/Benboncan/sounds/62309/)
 [Ambience](https://freesound.org/people/InspectorJ/sounds/411991/)
+[Wood Steps](https://freesound.org/people/ralph.whitehead/sounds/331451/)
 - New room
 [Entering Door](https://freesound.org/people/IG88Gov/sounds/431897/)
 - Placing Picture
