@@ -1,5 +1,7 @@
 zip:
 	gzip animations/*.fla
+zip-sounds:
+	gzip sounds/*
 unzip:
 	gunzip animations/*.gz
 
