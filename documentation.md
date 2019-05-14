@@ -1,12 +1,18 @@
 # About
 
 With Every Moment
+
 Created by Julian Knodt
+
 ![City](imgs/city.png)
+
 [https://vimeo.com/336155504](https://vimeo.com/336155504)
-A possible reenactment of what it was like to have been tank man.
+
+A characterization of unhappiness from constant work and stress.
+
 Thanks to [Freesound.org](https://freesound.org/) for all the sounds, list of used sounds
 [here](sounds.md).
+
 The moodboard and development site are [here](readme.md).
 
 ## Project Idea
